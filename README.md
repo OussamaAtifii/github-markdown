@@ -22,13 +22,13 @@ Galeria de lenguajes de programación maquetada unicamente con **flex**
    Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/OussamaAtifii/github-markdown.git
    ```
 
 2. **Accede al Directorio del Proyecto:**
 
    ```bash
-   cd
+   cd github-markdown-flex
    ```
 
 3. **Abre el directorio con tu editor de texto favorito.**
